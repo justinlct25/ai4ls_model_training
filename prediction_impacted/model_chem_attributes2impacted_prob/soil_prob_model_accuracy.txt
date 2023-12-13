@@ -1,0 +1,1 @@
+ROC-AUC for Probability of Soil Out of Standard: 0.9972799493408555

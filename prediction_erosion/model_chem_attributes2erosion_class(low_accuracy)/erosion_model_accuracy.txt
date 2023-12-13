@@ -1,0 +1,15 @@
+Accuracy for Erosion Prediction: 0.9578614695812484
+Classification Report for Erosion Prediction:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        37
+           1       0.00      0.00      0.00        47
+           2       0.00      0.00      0.00        38
+           3       0.00      0.00      0.00        55
+           4       0.00      0.00      0.00        11
+           5       0.00      0.00      0.00         7
+
+   micro avg       0.00      0.00      0.00       195
+   macro avg       0.00      0.00      0.00       195
+weighted avg       0.00      0.00      0.00       195
+ samples avg       0.00      0.00      0.00       195
